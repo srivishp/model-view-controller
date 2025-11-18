@@ -1,7 +1,7 @@
 //* MODEL VIEW CONTROLLER (MVC)
 // # Models handle the business logic that is required (saving, fetching data etc)
 // ? Views are what the users see
-// -> Controllers are the middleware functions that 'route' data between Models & Views
+// > Controllers are the middleware functions that 'route' data between Models & Views
 
 const Product = require("../models/product");
 
